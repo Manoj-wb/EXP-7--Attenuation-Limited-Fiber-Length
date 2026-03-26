@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2026-03-26 at 7 34 42 PM](https://github.com/user-attachments/assets/1f428773-21ec-423e-b9a4-72966b0a75de)
 # Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
 
@@ -66,20 +66,17 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
+![WhatsApp Image 2026-03-26 at 7 34 24 PM](https://github.com/user-attachments/assets/aff87c2f-68b0-485f-b8f7-c08bce629aff)
+![WhatsApp Image 2026-03-26 at 7 34 29 PM](https://github.com/user-attachments/assets/4b256750-a201-4c8c-b563-b5b1eba33785)
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
 
-- **Pre-lab Calculations**  
+##Tabulation
+- ![WhatsApp Image 2026-03-26 at 7 36 16 PM](https://github.com/user-attachments/assets/47a92a8f-9441-4a86-b88c-03923a709446)
 
-- **Screenshots** of layout and results (including eye diagrams)  
+##Output
+- ![WhatsApp Image 2026-03-26 at 7 34 36 PM](https://github.com/user-attachments/assets/63a74ef6-4cd0-4a6e-9348-e190b8a2a3d9)
+![WhatsApp Image 2026-03-26 at 7 34 42 PM](https://github.com/user-attachments/assets/926270f1-6611-4852-b40e-18c4b6c1e90b)
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
-
-- **Written Summary** of observations and explanations of differences.  
+- 
+##Result:
+Thus the attenuation-limited fiber length based on the power budget equation is calculated and the result simulated is verified.
